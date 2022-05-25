@@ -1,3 +1,12 @@
 body {
   text-align: center;
+  background: #dca27a;
+}
+
+.croissant-photo {
+  max-width: 300px;
+}
+
+footer {
+  padding: 15px;
 }
